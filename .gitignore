@@ -1,6 +1,9 @@
 # Visual Studio stuff
 .vs/
 
+# Project Specific stuff
+ConfigurePowershell/config.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
