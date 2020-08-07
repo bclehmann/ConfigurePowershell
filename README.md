@@ -2,9 +2,9 @@
 A command-line tool for creating a PowerShell profile
 
 ## Demonstration
-Before doing anything, run ConfigurePowershell.py, this will create a config file in the same directory as it. Edit the config file as appropriate.
+Before doing anything, run `ConfigurePowershell.py`, this will create a config file in the same directory as it. Edit the config file as appropriate.
 
-The `profile_filepath` can be found by typing `$profile` into a powershell window and copy-pasting the result. Once you've modified the config file run `ConfigurePowershell.py --sync`
+The `profile_filepath` can be found by typing `$profile` into a powershell window and copy-pasting the result. Once you've modified the config file run `ConfigurePowershell.py` again.
 
 A `config.json` file like this:
 
